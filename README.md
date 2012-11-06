@@ -1,4 +1,4 @@
-Testing Dojo Sikuli
+Testing Dojo com Sikuli realizado na CWI Software
 
 TC1) Validar mensagem de login inválido
 
